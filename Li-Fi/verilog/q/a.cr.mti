@@ -1,0 +1,36 @@
+C:/Users/mehra/OneDrive/Desktop/vlsi/project/phase_1_98101606_98101458/verilog/hamming_decoder.v {1 {vlog -work work -vopt -stats=none C:/Users/mehra/OneDrive/Desktop/vlsi/project/phase_1_98101606_98101458/verilog/hamming_decoder.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module hamming_decoder
+
+Top level modules:
+	hamming_decoder
+
+} {} {}} C:/Users/mehra/OneDrive/Desktop/vlsi/project/phase_1_98101606_98101458/verilog/bias_demap_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/mehra/OneDrive/Desktop/vlsi/project/phase_1_98101606_98101458/verilog/bias_demap_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module bias_demap_tb
+
+Top level modules:
+	bias_demap_tb
+
+} {} {}} C:/Users/mehra/OneDrive/Desktop/vlsi/project/phase_1_98101606_98101458/verilog/bias_denap.v {1 {vlog -work work -vopt -stats=none C:/Users/mehra/OneDrive/Desktop/vlsi/project/phase_1_98101606_98101458/verilog/bias_denap.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module bias_demap
+
+Top level modules:
+	bias_demap
+
+} {} {}} C:/Users/mehra/OneDrive/Desktop/vlsi/project/phase_1_98101606_98101458/verilog/mul.v {1 {vlog -work work -vopt -stats=none C:/Users/mehra/OneDrive/Desktop/vlsi/project/phase_1_98101606_98101458/verilog/mul.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mul
+
+Top level modules:
+	mul
+
+} {} {}} C:/Users/mehra/OneDrive/Desktop/vlsi/project/phase_1_98101606_98101458/verilog/mul_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/mehra/OneDrive/Desktop/vlsi/project/phase_1_98101606_98101458/verilog/mul_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mul_tb
+
+Top level modules:
+	mul_tb
+
+} {} {}}
