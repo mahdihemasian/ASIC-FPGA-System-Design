@@ -1,0 +1,14 @@
+// memory data file (do not edit the following line - required for mem load use)
+// instance=/cordic_tb/ans
+// format=hex addressradix=h dataradix=h version=1.0 wordsperline=1 noaddress
+57e5cc3f
+a81a33d1
+3243f7d1
+0660f70b
+0660f70b
+00a3d5c1
+9c1be86f
+ff5c2a6f
+3b58ce45
+292f1f1d
+53aa8609
